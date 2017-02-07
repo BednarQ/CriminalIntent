@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Enter title for the crime.</string>
+    <string name="solved_checkbox">Solved?</string>
+    <string name="crime_title_label">Crime Title</string>
+    <string name="crime_details">Details</string>
+    <string name="date_picker_title">Date of crime:</string>
+    <string name="time_picker_title">Time of crime:</string>
+    <string name ="new_crime">New crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="remove_crime">Remove crime</string>
+    <string name="empty_add_new_crime_text_view">List is currently empty. Would you like to add new crime?</string>
+
+    <string name="crime_added_toast">Crime successfully added!</string>
+    <string name="crime_removed_toast">Crime successfully removed!</string>
+    <string name="choose_suspect_from_contacts">Choose suspect</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d crime</item>
+        <item quantity="other">%1$d crimes</item>
+    </plurals>
+    <string name="crime_report">%1$s!
+        The crime was discovered on %2$s. %3$s, and %4$s
+    </string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_no_suspect">there is no suspect.</string>
+    <string name="crime_report_suspect">the suspect is %s.</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Send crime report via</string>
+    <string name="call_suspect">Call suspect</string>
+    <string name="permissin_denied">To call a suspect you need to allow access to contacts.</string>
+    <string name="zoom_photo">Crime photo</string>
+    <string name="confirm">Confirm</string>
+    <string name="save_and_confirm_new_crime">Save and confirm new Crime</string>
+    <string name="empty_title">Please provide crime\'s title.</string>
+</resources>
